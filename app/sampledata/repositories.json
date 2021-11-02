@@ -1,0 +1,56 @@
+{
+ "data": [
+
+  {
+    "id": 391480282,
+    "name": "livro-receitas",
+    "owner": {
+      "login": "MariaCarolina96",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88255470?v=4"
+    },
+    "html_url": "https://github.com/MariaCarolina96/livro-receitas",
+    "description": "Meu Livro de Receitas",
+    "stargazers_count": 0, //quantidade de estrelas que o repositório têm
+    "language": "Não têm"
+  },
+
+  {
+    "id": 406488905,
+    "name": "Projeto-2-DIO-JAVA",
+    "owner": {
+      "login": "MariaCarolina96",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88255470?v=4"
+    },
+    "html_url": "https://github.com/MariaCarolina96/Projeto-2-DIO-JAVA",
+    "description": "Projeto 2 - DIO - API de gerenciamento de pessoas com Spring Boot",
+    "stargazers_count": 0,
+    "language": "Java"
+  },
+
+  {
+    "id": 406216066,
+    "name": "Projeto_1_DIO-JAVA",
+    "owner": {
+      "login": "MariaCarolina96",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88255470?v=4"
+    },
+    "html_url": "https://github.com/MariaCarolina96/Projeto_1_DIO-JAVA",
+    "description": "Projetos JAVA",
+    "stargazers_count": 0,
+    "language": "Java"
+  },
+
+  {
+    "id": 423355380,
+    "name": "Projeto_Kotlin_1",
+    "owner": {
+      "login": "MariaCarolina96",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88255470?v=4"
+    },
+    "html_url": "https://github.com/MariaCarolina96/Projeto_Kotlin_1",
+    "description": "App de Cartão de Visitas em Kotlin",
+    "stargazers_count": 0,
+    "language": "Kotlin"
+  }
+ ]
+}
